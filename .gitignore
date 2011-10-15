@@ -1,0 +1,6 @@
+.gitignore
+*.swf
+*.bak
+*.tmp
+Thumbs.db
+~*

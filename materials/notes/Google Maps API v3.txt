@@ -1,0 +1,21 @@
++ можно скрывать названия
++ класс для создания полигонов
++ прозрачность накладываемых объектов
++ кластеры маркеров
++ быстрое получение lat, lng в зав-ти от позиции мыши
++ прогрессбар загрузки меток
++ прямоугольник, создаваемый перемещением двух диагональных меток (есть окружность ещё)
++ удобное позиционирование окна информации
++ наложение облаков и анимации (в примере звёздочки двигались)
++ перемещение маркера
+http://gmaps-samples-v3.googlecode.com/svn/trunk/draggable-markers/draggable-markers.html
++ бокс вокруг территории 
+http://esa.easypagez.com/v3boundsbox/
++ удаление оверлеев
+http://gmaps-samples-v3.googlecode.com/svn/trunk/overlayview/custommarker.html
++ прямоугольная область (выделения)
+http://google-maps-utility-library-v3.googlecode.com/svn/tags/keydragzoom/1.0/docs/examples.html
++ своё окно (инфобокс)
+http://gmaps-samples-v3.googlecode.com/svn/trunk/infowindow_custom/infowindow-custom.html
++ свои иконки
+http://code.google.com/apis/maps/documentation/javascript/examples/icon-complex.html

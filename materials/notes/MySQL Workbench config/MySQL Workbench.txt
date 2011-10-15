@@ -1,0 +1,2 @@
+В C:\Program Files\MySQL\MySQL Workbench 5.2 CE\modules\data\mysql_engines.xml
+выставлена поддержка внешних ключей у XtraDB, MariaDB заменена на Aria
