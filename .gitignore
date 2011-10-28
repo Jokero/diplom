@@ -4,3 +4,4 @@
 *.tmp
 Thumbs.db
 ~*
+/materials/training/training/flags
